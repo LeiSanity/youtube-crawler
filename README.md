@@ -18,9 +18,10 @@ Input the search terms, the program will automatically search all related videos
 ## How to run the program
 1. Git clone current repo
 2. Pip install used packages
-3. Change the **developer api key**
-4. Input the quota (number of videos'information return)
-5. Run python3 test.py
+3. Get the api key from [google developer console](https://console.cloud.google.com/apis/), change the **developer api key** in test.py.
+4. Add search term inside bottom function
+5. Input the quota (number of videos'information return)
+6. Run python3 test.py
 
 ## Sample Output
 One .xlsx file one search. Check the sample output shown below.
